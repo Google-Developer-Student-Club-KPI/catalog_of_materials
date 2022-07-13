@@ -1,1 +1,3 @@
 # catalog_of_materials
+
+[Динамічне програмування](https://github.com/Google-Developer-Student-Club-KPI/catalog_of_materials/blob/main/materials/dynamic%20_pogramming.md) - матеріали, які....
