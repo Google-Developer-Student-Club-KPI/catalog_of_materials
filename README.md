@@ -2,7 +2,7 @@
 
 [Динамічне програмування](https://github.com/Google-Developer-Student-Club-KPI/catalog_of_materials/blob/main/materials/dynamic%20_pogramming.md) - про те що таке динамічне програамування та з чим його їдять
 
-[Хмарні обчислення](https://github.com/Google-Developer-Student-Club-KPI/catalog_of_materials/blob/main/materials/Cloud_computing.md) - добірка курсів, що допоможуть освоїти технології Cloud computing
+[Хмарні обчислення](https://github.com/Google-Developer-Student-Club-KPI/catalog_of_materials/blob/main/materials/cloud_computing.md) - добірка курсів, що допоможуть освоїти технології Cloud computing
 
 [Алгоритми у всесвітньовідомих проектах](https://github.com/Google-Developer-Student-Club-KPI/catalog_of_materials/blob/main/materials/algorithms.md) - кілька статтей про те, які алгоритми використовують всесвітньо відомі сервіси у своїх продуктах
 
